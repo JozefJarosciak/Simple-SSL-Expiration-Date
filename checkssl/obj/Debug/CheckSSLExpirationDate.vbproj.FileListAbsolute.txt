@@ -1,0 +1,9 @@
+C:\vb2010\checkssl\checkssl\bin\Debug\checkssl.exe
+C:\vb2010\checkssl\checkssl\bin\Debug\checkssl.pdb
+C:\vb2010\checkssl\checkssl\bin\Debug\checkssl.xml
+C:\vb2010\checkssl\checkssl\obj\Debug\checkssl.GetSSLExpirationDateForm.resources
+C:\vb2010\checkssl\checkssl\obj\Debug\checkssl.Resources.resources
+C:\vb2010\checkssl\checkssl\obj\Debug\CheckSSLExpirationDate.vbproj.GenerateResource.Cache
+C:\vb2010\checkssl\checkssl\obj\Debug\checkssl.exe
+C:\vb2010\checkssl\checkssl\obj\Debug\checkssl.xml
+C:\vb2010\checkssl\checkssl\obj\Debug\checkssl.pdb

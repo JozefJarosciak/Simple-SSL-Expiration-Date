@@ -1,0 +1,3 @@
+C:\vb2010\checkssl\checkssl\obj\Debug\checkssl.exe
+C:\vb2010\checkssl\checkssl\obj\Debug\checkssl.xml
+C:\vb2010\checkssl\checkssl\obj\Debug\checkssl.pdb
